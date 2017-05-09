@@ -1,4 +1,4 @@
-## Bem vindo  a o Blog da Jennifer!!
+## Bem vindo  ao Blog da Jennifer!!
 
 You can use the [editor on GitHub](https://github.com/JenniferPamella/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
